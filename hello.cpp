@@ -4,9 +4,8 @@
 int main(int arc, char **arv)
 {
     std::cout << "Hello Wordld!" << std::endl;
-
-    std::cin.get();
-
+    std::cout << "Hello Mars!" << std::endl;
+    std::cout << "Hello you!" << std::endl;
     std::cin.get();
 
     return EXIT_SUCCESS;
