@@ -9,6 +9,8 @@ int main(int arc, char **arv)
     std::cout << "Master" << std::endl;
     std::cout << "Experiment"<<std::endl;
     std::cout << "before rebase" << std::endl;
+
+    std::cout << "I want to do a fast-forward merge" << std::endl;
     std::cin.get();
 
     return EXIT_SUCCESS;
